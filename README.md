@@ -1,4 +1,4 @@
-# [Louding Maral LLM And Dorna LLM]
+# [loading Maral LLM And Dorna LLM]
 
 Easily and quickly load and use native Persian models for Large Language Model (LLM) tasks.
 
